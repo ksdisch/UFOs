@@ -15,11 +15,11 @@ The purpose of this project was to create a website wherein users could learn ab
 The screenshots below demonstrate how the user can filter the table by multiple criteria. There are filters for each column (other than the comments column). If all of the filter fields are blank, the table displays all of the data for each UFO sighting contained within the original dataset in the data.js file as shown in the first screenshot. Once a user inputs a value into one of these filters, the table filters to only show the rows where the value of the filter matches that of the corresponding column as shown in the second screenshot. If another filter value is entered in a different field, the table only shows the rows where both column values match their corresponding filter values, as shown in the third screenshot. This can continue to be done for a third, fourth and fifth filter. 
 
 - #### Unfiltered
-Original ![Unfiltered table](/Resources/table-unfiltered.png?raw=true "Title")
+Original ![Unfiltered table](/table-unfiltered.png?raw=true "Title")
 - #### One Filter
-Original ![One filter table](/Resources/table-one-filter.png?raw=true "Title")
+Original ![One filter table](/table-one-filter.png?raw=true "Title")
 - #### Two Filters
-Original ![Two filters table](/Resources/table-two-filters.png?raw=true "Title")
+Original ![Two filters table](table-two-filters.png?raw=true "Title")
 
 ## Summary
 Overall, this website is quite functional and informative on UFO sightings. However, there is always room for improvement. Below, I have included one particular drawback I have noticed, as well as two recommendations I have for improving the website.
