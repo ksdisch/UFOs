@@ -29,6 +29,4 @@ Overall, this website is quite functional and informative on UFO sightings. Howe
 
 ### Recommendations:
 - The format of the date column needs to be updated to be more uniform. For example, the dates need to be updated so that all dates are in DD/MM/YYYY format. Right now some are in D/M/YYYY, DD/M/YYYY, or D/MM/YYYY formats. 
-
- For example, the date filter should instruct the user to input their dates in D/M/YYYY if the day or month 
 - The website needs to be updated to set the user up for success when filtering the data. One way of doing this would be to use JavaScript methods to format user inputs to match the data. An example of this would be using the .toLowerCase() method to make any user inputted string all lower case, since that is how the data is formatted. Another way to update the site in this way would be giving the user instructions on how to format their inputs for each filter. A couple ways to do this would be to include tooltips with instructions, and/or including placeholders with correct formatting, such as is included already in the date field.
